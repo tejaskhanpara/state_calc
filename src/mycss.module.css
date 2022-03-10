@@ -1,0 +1,53 @@
+body
+{
+    background-color: rgb(32, 30, 30);
+    margin-top: 35px;
+}
+.main
+{
+    background-color: grey;
+    width: 180px;
+    height: 200px;
+    border: 5px solid rgb(206, 151, 151);
+    text-align: center;
+    margin-left: 35%;
+    border-radius: 2px;
+}
+h3
+{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button
+{
+    width: 42px;
+    border-radius: 5px;
+}
+input[type="text"] 
+{
+    border: groove;
+    border-radius: 2px;
+    color: black;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    text-align: end;
+}
+
+.twozero
+{
+    width: 42px;
+}
+.zero
+{
+    width: 42px;
+}
+.equal
+{
+    width: 84px;
+    background-color: black;
+    color: white;
+    border: 2px solid pink;
+}
